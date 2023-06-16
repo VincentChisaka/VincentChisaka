@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/payambinchi" target="blank"><img src="https://img.shields.io/twitter/follow/payambinchi?logo=twitter&style=for-the-badge" alt="payambinchi" /></a> </p>
 
-- 🔭 I’m currently working on a Charity Donation Website with my team. [Lets Charity](https://github.com/phase-5-children-s-home/childrens-home-app)
+- 🔭 I’m currently working on my personal portfolio Website. 
 
 - 🌱 I’m currently learning Back-End Software Programming. **Ruby, SQL,**
 
